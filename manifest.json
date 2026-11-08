@@ -5,9 +5,18 @@
   "description": "Filmes, séries e canais de TV ao vivo em HD/4K PT-BR. Múltiplos servidores dedicados.",
   "logo": "https://bestcine.dpdns.org/logo.png",
   "background": "https://bestcine.dpdns.org/fundo.jpg",
-  "resources": ["meta", "stream"],
-  "types": ["movie", "series"],
-  "idPrefixes": ["tt", "bestcine_tv_"],
+  "resources": [
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt",
+    "bestcine_tv_"
+  ],
   "behaviorHints": {
     "configurable": true,
     "configurationRequired": false
